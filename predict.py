@@ -6,7 +6,7 @@ import numpy as np
 
 # Directory and file paths
 VIDEOS_DIR = 'C:\\Users\\tarhe\\Desktop\\AI Foul Detector'
-video_path = os.path.join(VIDEOS_DIR, '1.mp4')
+video_path = os.path.join(VIDEOS_DIR, '2.mov')
 video_path_out = '{}_out.mp4'.format(video_path)
 
 # Print paths for debugging
