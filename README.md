@@ -3,8 +3,6 @@
 # AI Foul Detection System
 ## Demo Video
 
-Watch the AI Foul Detection System in action:
-
 [![AI Foul Detection System Demo](https://img.youtube.com/vi/z_m79qlMrU0/0.jpg)](https://www.youtube.com/watch?v=z_m79qlMrU0)
 
 Click the image above to watch the demo on YouTube.
