@@ -24,7 +24,6 @@ Requirements
 ## Installation
 - Clone the repository: git clone https://github.com/Myles94/AI-Foul-Detection-System.git
 - Install dependencies: pip install -r requirements.txt
-- Usage
 - Navigate to the project directory: cd AI-Foul-Detection-System
 - Run the detection script: python foul_detection.py --video <path_to_video>
 ## Customization
