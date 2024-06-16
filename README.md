@@ -17,15 +17,16 @@ Features: Overlay messages and visual cues
 ## Description: Provided visual feedback on the video stream to indicate fouls using text overlays and colored bounding boxes around detected shoes.
 ## How to Use
 Requirements
-Python 
-YOLOv8
-OpenCV
-Ultralytics
-Installation
-Clone the repository: git clone https://github.com/Myles94/AI-Foul-Detection-System.git
-Install dependencies: pip install -r requirements.txt
-Usage
-Navigate to the project directory: cd AI-Foul-Detection-System
-Run the detection script: python foul_detection.py --video <path_to_video>
-Customization
-Adjust detection thresholds and boundary coordinates in foul_detection.py to suit different track and field event setups.
+- Python 
+- YOLOv8
+- OpenCV
+- Ultralytics
+## Installation
+- Clone the repository: git clone https://github.com/Myles94/AI-Foul-Detection-System.git
+- Install dependencies: pip install -r requirements.txt
+- Usage
+- Navigate to the project directory: cd AI-Foul-Detection-System
+- Run the detection script: python foul_detection.py --video <path_to_video>
+## Customization
+- The AI Foul detector is customizable to all circle setups and different events. By changing the foul detector logic on the x and y axis users can custom fit the AI foul detector to their liking resulting in accurate and reliable feedback for track and field events. 
+  
