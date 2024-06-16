@@ -5,7 +5,7 @@ The AI Foul Detection System is a video analysis tool designed to detect fouls i
 ## Project Components
 1. Object Detection Model
 Framework: YOLO v8 (You Only Look Once)
-Description: Trained a custom YOLO model using YOLOv5 and Ultralytics framework to detect athlete's shoes in real-time video frames.
+Description: Trained a custom YOLO model using YOLOv8 and Ultralytics framework to detect athlete's shoes in real-time video frames.
 2. Video Processing
 Library: OpenCV (Open Source Computer Vision Library)
 Description: Used OpenCV for video input/output, frame processing, and visualization of detection results.
