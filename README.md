@@ -14,8 +14,8 @@ Implementation: Python programming language
 Description: Implemented logic to determine when an athlete's shoe crosses a predefined boundary (e.g., circle boundary in discus throw) and marks it as a foul.
 4. Visual Feedback
 Features: Overlay messages and visual cues
-##Description: Provided visual feedback on the video stream to indicate fouls using text overlays and colored bounding boxes around detected shoes.
-How to Use
+## Description: Provided visual feedback on the video stream to indicate fouls using text overlays and colored bounding boxes around detected shoes.
+## How to Use
 Requirements
 Python 
 YOLOv8
