@@ -28,11 +28,7 @@ Requirements
 - YOLOv8
 - OpenCV
 - Ultralytics
-## Installation
-- Clone the repository: git clone https://github.com/Myles94/AI-Foul-Detection-System.git
-- Install dependencies: pip install -r requirements.txt
-- Navigate to the project directory: cd AI-Foul-Detection-System
-- Run the detection script: python foul_detection.py --video <path_to_video>
+
 ## Customization
 - The AI Foul detector is customizable to all circle setups and different events. By changing the foul detector logic on the x and y axis users can custom fit the AI foul detector to their liking resulting in accurate and reliable feedback for track and field events. 
   
